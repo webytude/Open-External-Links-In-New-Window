@@ -1,6 +1,6 @@
-#Open External Links In New Window
+# Open External Links In New Window
 
-### once a developer developing a website that faces difficulty for mange continually in every dynamic URLs here is the best function to handle  open third party URLs into the new tab
+Once a developer developing a website that faces difficulty for mange continually in every dynamic URLs here is the best function to handle  open third party URLs into the new tab
 
 ```php
 // ==============================================================================
