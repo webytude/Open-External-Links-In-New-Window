@@ -1,3 +1,4 @@
+#Open External Links In New Window
 <?php
 // ==============================================================================
 // A href validation with target blank
