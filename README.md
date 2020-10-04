@@ -1,5 +1,5 @@
 #Open External Links In New Window
-
+```php
 // ==============================================================================
 // A href validation with target blank
 // ==============================================================================
@@ -22,3 +22,4 @@ function href_target($url = null,$target = null){
 		return null;
 	}
 }
+```
